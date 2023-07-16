@@ -432,6 +432,14 @@
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2209.06203">Normalizing Flows for Interventional Density Estimation</a></td> 
+    <td>Valentyn Melnychuk, Dennis Frauen, Stefan Feuerriegel</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
     <td><a href=""></a></td> 
     <td></td> 
     <td></td>
