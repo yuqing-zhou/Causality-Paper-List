@@ -360,6 +360,78 @@
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
+    <td><a href="https://openreview.net/pdf?id=rSOMtDM1mB">Stable Estimation of Heterogeneous Treatment Effects</a></td> 
+    <td>Anpeng Wu, Kun Kuang, Ruoxuan Xiong, Bo Li, Fei Wu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://proceedings.mlr.press/v202/li23ay.html">Trustworthy Policy Learning Under The Counterfactual No-Harm Criterion</a></td> 
+    <td>Haoxuan Li, Chunyuan Zheng, Yixiao Cao, Zhi Geng, Yue Liu, Peng Wu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2303.02135">Eventual Discounting Temporal Logic Counterfactual Experience Replay</a></td> 
+    <td>Cameron Voloshin, Abhinav Verma, Yisong Yue</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2205.13832">Counterfactual Analysis in Dynamic Latent State Models</a></td> 
+    <td>Martin Haugh, Raghav Singal</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://proceedings.mlr.press/v202/fontanella23a.html">ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging</a></td> 
+    <td>Alessandro Fontanella, Antreas Antoniou, Wenwen Li, Joanna Wardlaw, Grant Mair, Emanuele Trucco, Amos Storkey</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2305.11997">Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees</a></td> 
+    <td>Faisal Hamman, Erfaun Noorani, Saumitra Mishra, Daniele Magazzeni, Sanghamitra Dutta</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2302.12120">Sequential Counterfactual Risk Minimization</a></td> 
+    <td>Houssam Zenati, Eustache Diemert, Matthieu Martin, Julien Mairal, Pierre Gaillard</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2306.10473">2D-Shapley: A Framework for Fragmented Data Valuation</a></td> 
+    <td>Zhihong Liu, Hoang Anh Just, Xiangyu Chang, Xi Chen, Ruoxi Jia</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2305.17021">GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations</a></td> 
+    <td>Dan Ley, Saumitra Mishra, Daniele Magazzeni</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2023</td> 
     <td><a href=""></a></td> 
     <td></td> 
     <td></td>
