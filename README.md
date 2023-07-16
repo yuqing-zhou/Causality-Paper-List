@@ -1,6 +1,5 @@
 # Causal-Inference-Paper-List
 
-## ICML 2023
 <table>
   <tr>
     <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Link</td> <td>Abstract</td>
@@ -437,12 +436,310 @@
     <td></td>
     <td></td>
   </tr>
+  
   <tr>
     <td>ICML</td> 
-    <td>2023</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2203.04413">Score Matching Enables Causal Discovery of Nonlinear Additive Noise Models</a></td> 
+    <td>Paul Rolland, Volkan Cevher, Matthäus Kleindessner, Chris Russel, Bernhard Schölkopf, Dominik Janzing, Francesco Locatello</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/xie22a.html">Identification of Linear Non-Gaussian Latent Hierarchical Structure</a></td> 
+    <td>Feng Xie, Biwei Huang, Zhengming Chen, Yangbo He, Zhi Geng, Kun Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2204.07258">Causal Transformer for Estimating Counterfactual Outcomes</a></td> 
+    <td>Valentyn Melnychuk, Dennis Frauen, Stefan Feuerriegel</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/dominguez-olmedo22a.html">On The Adversarial Robustness of Causal Algorithmic Recourse</a></td> 
+    <td>Ricardo Dominguez-Olmedo, Amir H Karimi, Bernhard Schölkopf</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://causalai.net/r78.pdf">Partial Counterfactual Identification from Observational and Experimental Data</a></td> 
+    <td>Junzhe Zhang, Jin Tian, Elias Bareinboim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2207.05302">Causal Conceptions of Fairness and Their Consequences</a></td> 
+    <td>Hamed Nilforoshan, Johann Gaebler, Ravi Shroff, Sharad Goel</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2206.13452">Causal Dynamics Learning for Task-Independent State Abstraction</a></td> 
+    <td>Zizhao Wang, Xuesu Xiao, Zifan Xu, Yuke Zhu, Peter Stone</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2106.02172">Learning from Counterfactual Links for Link Prediction</a></td> 
+    <td>Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, Meng Jiang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2112.00826">Inducing Causal Structure for Interpretable Neural Networks</a></td> 
+    <td>Atticus Geiger, Zhengxuan Wu, Hanson Lu, Josh Rozner, Elisa Kreiss, Thomas Icard, Noah D. Goodman, Christopher Potts</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.03169">CITRIS: Causal Identifiability from Temporal Intervened Sequences</a></td> 
+    <td>Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M. Asano, Taco Cohen, Efstratios Gavves</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2107.05762">Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses</a></td> 
+    <td>Keegan Harris, Daniel Ngo, Logan Stapleton, Hoda Heidari, Zhiwei Steven Wu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.07765">General-purpose, Long-context Autoregressive Modeling with Perceiver AR</a></td> 
+    <td>Curtis Hawthorne, Andrew Jaegle, Cătălina Cangea, Sebastian Borgeaud, Charlie Nash, Mateusz Malinowski, Sander Dieleman, Oriol Vinyals, Matthew Botvinick, Ian Simon, Hannah Sheahan, Neil Zeghidour, Jean-Baptiste Alayrac, João Carreira, Jesse Engel</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/shridharan22a.html">Scalable Computation of Causal Bounds</a></td> 
+    <td>Madhumitha Shridharan, Garud Iyengar</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/jiang22a.html">The Role of Deconfounding in Meta-learning</a></td> 
+    <td>Yinjie Jiang, Zhengyu Chen, Kun Kuang, Luotian Yuan, Xinhai Ye, Zhihua Wang, Fei Wu, Ying Wei</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/deng22c.html">Deep Causal Metric Learning</a></td> 
+    <td>Xiang Deng, Zhongfei Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/jung22a.html">On Measuring Causal Contributions Via Do-interventions</a></td> 
+    <td>Yonghan Jung, Shiva Kasiviswanathan, Jin Tian, Dominik Janzing, Patrick Bloebaum, Elias Bareinboim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2111.12490">Matching Learned Causal Effects of Neural Networks with Domain Priors</a></td> 
+    <td>Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.01312">Causal Imitation Learning Under Temporally Correlated Noise</a></td> 
+    <td>Gokul Swamy, Sanjiban Choudhury, J. Andrew Bagnell, Zhiwei Steven Wu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.00436">ROCK: Causal Inference Principles for Reasoning About Commonsense Causality</a></td> 
+    <td>Jiayao Zhang, Hongming Zhang, Weijie J. Su, Dan Roth</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.04208">Validating Causal Inference Methods</a></td> 
+    <td>Harsh Parikh, Carlos Varjao, Louise Xu, Eric Tchetgen Tchetgen</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2205.12331">Certified Robustness Against Natural Language Attacks By Causal Intervention</a></td> 
+    <td>Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2112.03753">Tell Me Why! Explanations Support Learning Relational and Causal Structure</a></td> 
+    <td>Andrew K. Lampinen, Nicholas A. Roy, Ishita Dasgupta, Stephanie C. Y. Chan, Allison C. Tam, James L. McClelland, Chen Yan, Adam Santoro, Neil C. Rabinowitz, Jane X. Wang, Felix Hill</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2206.14702">Interventional Contrastive Learning with Meta Semantic Regularizer</a></td> 
+    <td>Wenwen Qiang, Jiangmeng Li, Changwen Zheng, Bing Su, Hui Xiong</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/li22l.html">Deconfounded Value Decomposition for Multi-Agent Reinforcement Learning</a></td> 
+    <td>Jiahui Li, Kun Kuang, Baoxiang Wang, Furui Liu, Long Chen, Changjie Fan, Fei Wu, Jun Xiao</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2202.01300">Causal Inference Through The Structural Causal Marginal Problem</a></td> 
+    <td>Luigi Gresele, Julius von Kügelgen, Jonas M. Kübler, Elke Kirschbaum, Bernhard Schölkopf, Dominik Janzing</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/budhathoki22a.html">Causal Structure-based Root Cause Analysis of Outliers</a></td> 
+    <td>Kailash Budhathoki, Lenon Minorics, Patrick Bloebaum, Dominik Janzing</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2205.02232">Minimum Cost Intervention Design for Causal Effect Identification</a></td> 
+    <td>Sina Akbari, Jalal Etesami, Negar Kiyavash</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/hu22b.html">Neuron Dependency Graphs: A Causal Abstraction of Neural Networks</a></td> 
+    <td>Yaojie Hu, Jin Tian</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2107.13068">End-to-End Balancing for Causal Continuous Treatment-Effect Estimation</a></td> 
+    <td>Mohammad Taha Bahadori, Eric Tchetgen Tchetgen, David E. Heckerman</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2203.08644v2">Context-Aware Drift Detection</a></td> 
+    <td>Oliver Cobb, Arnaud Van Looveren</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/compton22a.html">Entropic Causal Inference: Graph Identifiability</a></td> 
+    <td>Spencer Compton, Kristjan Greenewald, Dmitriy A Katz, Murat Kocaoglu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
     <td><a href=""></a></td> 
     <td></td> 
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
