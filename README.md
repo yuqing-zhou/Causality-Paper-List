@@ -1720,8 +1720,8 @@
   <tr>
     <td>NIPS</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2210.06183v1">Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation</a></td> 
+    <td>Ioana Bica, Mihaela van der Schaar</td> 
     <td></td>
     <td></td>
   </tr>
