@@ -625,24 +625,32 @@
   <tr>
     <td>ICLR</td> 
     <td>2023</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2303.01274v1">Measuring Axiomatic Identifiability of Counterfactual Image Models</a></td> 
+    <td>Miguel Monteiro, Fabio De Sousa Ribeiro, Nick Pawlowski, Daniel C. Castro, Ben Glocker</td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICLR</td> 
     <td>2023</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2211.01562v3">PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales</a></td> 
+    <td>Peifeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren</td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICLR</td> 
     <td>2023</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2210.06610v1">A Neural Mean Embedding Approach for Back-door and Front-door Adjustment</a></td> 
+    <td>Liyuan Xu, Arthur Gretton</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=UeYQXtI7nsX">Generating Intuitive Fairness Specifications for Natural Language Processing</a></td> 
+    <td>Florian E. Dorner, Momchil Peychev, Nikola Konstantinov, Naman Goel, Elliott Ash, Martin Vechev</td> 
     <td></td>
     <td></td>
   </tr>
