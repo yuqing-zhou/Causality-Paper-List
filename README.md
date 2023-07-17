@@ -1018,4 +1018,118 @@
     <td></td>
   </tr>
   
+
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://openreview.net/forum?id=-e4EXDWXnSn">Invariant Causal Representation Learning for Out-of-Distribution Generalization</a></td> 
+    <td>Chaochao Lu, Yuhuai Wu, José Miguel Hernández-Lobato, Bernhard Schölkopf</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2106.06196v2">Adversarial Robustness Through The Lens of Causality</a></td> 
+    <td>Yonggang Zhang, Mingming Gong, Tongliang Liu, Gang Niu, Xinmei Tian, Bo Han, Bernhard Schölkopf, Kun Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2107.10483v3">Efficient Neural Causal Discovery Without Acyclicity Constraints</a></td> 
+    <td>Phillip Lippe, Taco Cohen, Efstratios Gavves</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2110.05225v1">β-Intact-VAE: Identifying and Estimating Causal Effects under Limited Overlap</a></td> 
+    <td>Pengzhou Wu, Kenji Fukumizu</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2201.09366v2">Optimal Transport for Causal Discovery</a></td> 
+    <td>Ruibo Tu, Kun Zhang, Hedvig Kjellström, Cheng Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2110.05428v4">Learning Temporally Latent Causal Processes from General Temporal Data</a></td> 
+    <td>Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, Kun Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://openreview.net/forum?id=F5Em8ASCosV">Causal Contextual Bandits with Targeted Interventions</a></td> 
+    <td>Chandrasekar Subramanian, Balaraman Ravindran</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://openreview.net/forum?id=nZOUYEN6Wvy">Granger Causal Inference on DAGs Identifies Genomic Loci Regulating Transcription</a></td> 
+    <td>Alexander P Wu, Rohit Singh, Bonnie Berger</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2110.04301v4">Causal ImageNet: How to Discover Spurious Features in Deep Learning?</a></td> 
+    <td>Sahil Singla, Soheil Feizi</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2108.01312v2">Learning Causal Relationships from Conditional Moment Restrictions By Importance Weighting</a></td> 
+    <td>Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Haruo Kakehi, Shota Yasui</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2105.15164v4">DISSECT: Disentangled Simultaneous Explanations Via Concept Traversals</a></td> 
+    <td>Asma Ghandeharioun, Been Kim, Chun-Liang Li, Brendan Jou, Brian Eoff, Rosalind W. Picard</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2110.03109v1">Consistent Counterfactuals for Deep Models</a></td> 
+    <td>Emily Black, Zifan Wang, Matt Fredrikson, Anupam Datta</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2201.12487v2">Counterfactual Plans Under Distributional Ambiguity</a></td> 
+    <td>Ngoc Bui, Duy Nguyen, Viet Anh Nguyen</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
