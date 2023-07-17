@@ -696,40 +696,88 @@
   <tr>
     <td>ICML</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2106.12723">Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations</a></td> 
+    <td>Abubakar Abid, Mert Yuksekgonul, James Zou</td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2206.06520">Memory-Based Model Editing at Scale</a></td> 
+    <td>Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn</td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://proceedings.mlr.press/v162/zou22a.html">Counterfactual Prediction for Outcome-Oriented Treatments</a></td> 
+    <td>Hao Zou, Bo Li, Jiangang Han, Shuiping Chen, Xuetao Ding, Peng Cui </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2110.04961v2">Equivalence Analysis Between Counterfactual Regret Minimization and Online Mirror Descent</a></td> 
+    <td>Weiming Liu, Huacong Jiang, Bin Li, Houqiang Li</td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2022</td> 
-    <td><a href=""></a></td> 
-    <td></td> 
+    <td><a href="https://arxiv.org/abs/2206.08311">Continuous-Time Modeling of Counterfactual Outcomes Using Neural Controlled Differential Equations</a></td> 
+    <td>Nabeel Seedat, Fergus Imrie, Alexis Bellot, Zhaozhi Qian, Mihaela van der Schaar</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2207.02739">Robust Counterfactual Explanations for Tree-Based Ensembles</a></td> 
+    <td>Sanghamitra Dutta, Jason Long, Saumitra Mishra, Cecilia Tilli, Daniele Magazzeni</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2205.13444">Principled Knowledge Extrapolation with GANs</a></td> 
+    <td>Ruili Feng, Jie Xiao, Kecheng Zheng, Deli Zhao, Jingren Zhou, Qibin Sun, Zheng-Jun Zha</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2106.08161">Contrastive Mixture of Posteriors for Counterfactual Inference, Data Integration and Fairness</a></td> 
+    <td>Adam Foster, Árpi Vezér, Craig A Glastonbury, Páidí Creed, Sam Abujudeh, Aaron Sim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/correa22a.html">Counterfactual Transportability: A Formal Approach</a></td> 
+    <td>Juan D Correa, Sanghack Lee, Elias Bareinboim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2207.07072">A Query-optimal Algorithm for Finding Counterfactuals</a></td> 
+    <td>Guy Blanc, Caleb Koch, Jane Lange, Li-Yang Tan</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICML</td> 
+    <td>2022</td> 
+    <td><a href="https://proceedings.mlr.press/v162/dai22c.html">Marginal Distribution Adaptation for Discrete Sets Via Module-Oriented Divergence Minimization</a></td> 
+    <td>Hanjun Dai, Mengjiao Yang, Yuan Xue, Dale Schuurmans, Bo Dai</td> 
     <td></td>
     <td></td>
   </tr>
