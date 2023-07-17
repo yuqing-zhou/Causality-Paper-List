@@ -1613,5 +1613,118 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2204.12993v5">Counterfactual Harm</a></td> 
+    <td>Jonathan G. Richens, Rory Beard, Daniel H. Thompson</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2210.05811v4">Deep Counterfactual Estimation with Categorical Background Variables</a></td> 
+    <td>Edward De Brouwer</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://openreview.net/forum?id=HNlzT3G720t">[Re] Reproducibility Study of “Counterfactual Generative Networks”</a></td> 
+    <td>Piyush Bagad, Jesse Maas, Paul Hilders, Danilo de Goede</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://openreview.net/forum?id=StblE2MQ3AY">[Re] Reproduction and Extension of "Queens Are Powerful Too: Mitigating Gender Bias in Dialogue Generation"</a></td> 
+    <td>Erica Eaton, Pirouz Naghavi</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2210.08443v2">CLEAR: Generative Counterfactual Explanations on Graphs</a></td> 
+    <td>Jing Ma, Ruocheng Guo, Saumitra Mishra, Aidong Zhang, Jundong Li</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2301.10330v1">Off-Policy Evaluation for Action-Dependent Non-stationary Environments</a></td> 
+    <td>Yash Chandak, Shiv Shankar, Nathaniel D. Bastian, Bruno Castro da Silva, Emma Brunskil, Philip S. Thomas</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2210.11841v1">Diffusion Visual Counterfactual Explanations</a></td> 
+    <td>Maximilian Augustin, Valentyn Boreiko, Francesco Croce, Matthias Hein</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2206.11420v3">PAC: Assisted Value Factorisation with Counterfactual Predictions in Multi-Agent Reinforcement Learning</a></td> 
+    <td>Hanhan Zhou, Tian Lan, Vaneet Aggarwal</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2204.13545v2">Predicting Single-Cell Perturbation Responses for Unseen Drugs</a></td> 
+    <td>Leon Hetzel, Simon Böhm, Niki Kilbertus, Stephan Günnemann, Mohammad Lotfollahi, Fabian Theis</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2301.06199v1">Doubly Robust Counterfactual Classification</a></td> 
+    <td>Kwangho Kim, Edward H. Kennedy, José R. Zubizarreta</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2111.07603v2">Counterfactual Temporal Point Processes</a></td> 
+    <td>Kimia Noorbakhsh, Manuel Gomez Rodriguez</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2211.16499v1">Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing</a></td> 
+    <td>Nataniel Ruiz, Sarah Adel Bargal, Cihang Xie, Kate Saenko, Stan Sclaroff</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href="https://arxiv.org/abs/2210.11287v1">MoCoDA: Model-based Counterfactual Data Augmentation</a></td> 
+    <td>Silviu Pitis, Elliot Creager, Ajay Mandlekar, Animesh Garg</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NIPS</td> 
+    <td>2022</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+
   
 </table>
