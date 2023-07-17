@@ -1,4 +1,4 @@
-# Causal-Inference-Paper-List
+# Causality-Paper-List
 
 <table>
   <tr>
