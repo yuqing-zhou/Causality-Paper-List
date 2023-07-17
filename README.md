@@ -436,6 +436,226 @@
     <td></td>
     <td></td>
   </tr>
+
+
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.14215">In-context Reinforcement Learning with Algorithm Distillation</a></td> 
+    <td>Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Hansen, Angelos Filos, Ethan Brooks, Maxime Gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2204.04875">Learning to Induce Causal Structure</a></td> 
+    <td>Nan Rosemary Ke, Silvia Chiappa, Jane Wang, Anirudh Goyal, Jorg Bornschein, Melanie Rey, Theophane Weber, Matthew Botvinic, Michael Mozer, Danilo Jimenez Rezende</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.00035">Neural Causal Models for Counterfactual Identification and Estimation</a></td> 
+    <td>Kevin Xia, Yushu Pan, Elias Bareinboim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2303.12703">Causal Reasoning in The Presence of Latent Confounders Via Neural ADMG Learning</a></td> 
+    <td>Matthew Ashman, Chao Ma, Agrin Hilmkil, Joel Jennings, Cheng Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=8XqDnrmZQNF">Robust Attention for Contextual Biased Visual Recognition</a></td> 
+    <td>Ruyang Liu, Jingjia Huang, Thomas H. Li, Ge Li</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2204.06601">A Study of Causal Confusion in Preference-Based Reward Learning</a></td> 
+    <td>Jeremy Tien, Jerry Zhi-Yang He, Zackory Erickson, Anca D. Dragan, Daniel S. Brown</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.14706">Rhino: Deep Causal Temporal Relationship Learning with History-dependent Noise</a></td> 
+    <td>Wenbo Gong, Joel Jennings, Cheng Zhang, Nick Pawlowski</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/pdf/2206.06169v2.pdf">Causal Representation Learning for Instantaneous and Temporal Effects</a></td> 
+    <td>Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M. Asano, Taco Cohen, Efstratios Gavves</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2301.08987">Tier Balancing: Towards Dynamic Fairness Over Underlying Causal Factors</a></td> 
+    <td>Zeyu Tang, Yatong Chen, Yang Liu, Kun Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2302.07458">CUTS: Neural Causal Discovery from Unstructured Time-Series Data</a></td> 
+    <td>Yuxiao Cheng, Runzhao Yang, Tingxiong Xiao, Zongren Li, Jinli Suo, Kunlun He, Qionghai Dai</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=B-z41MBL_tH">	Causal Imitation Learning Via Inverse Reinforcement Learning</a></td> 
+    <td>Kangrui Ruan, Junzhe Zhang, Xuan Di, Elias Bareinboim</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=qjdr2QiBIWR">GRACE-C: Generalized Rate Agnostic Causal Estimation Via Constraints</a></td> 
+    <td>Mohammadsajad Abavisani, David Danks, Vince Calhoun, Sergey Plis</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=-HHJZlRpGb">Learning Domain-Agnostic Representation for Disease Diagnosis</a></td> 
+    <td>Churan Wang, Jing Li, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2211.10257">Model-based Causal Bayesian Optimization</a></td> 
+    <td>Scott Sussex, Anastasiia Makarova, Andreas Krause</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2105.10719v4">Can We Faithfully Represent Absence States to Compute Shapley Values on A DNN?</a></td> 
+    <td>Jie Ren, Zhanpeng Zhou, Qirui Chen, Quanshi Zhang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2206.05263">Causal Balancing for Domain Generalization</a></td> 
+    <td>Xinyi Wang, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.00079v3">Causal Estimation for Text Data with (Apparent) Overlap Violations</a></td> 
+    <td>Lin Gui, Victor Veitch</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.00116v2">Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information</a></td> 
+    <td>Yulun Wu, Robert A. Barton, Zichen Wang, Vassilis N. Ioannidis, Carlo De Donno, Layne C. Price, Luis F. Voloch, George Karypis</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2210.06201v2">Diffusion Models for Causal Discovery Via Topological Ordering</a></td> 
+    <td>Pedro Sanchez, Xiao Liu, Alison Q O'Neil, Sotirios A. Tsaftaris</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2206.07883v3">Combinatorial Pure Exploration of Causal Bandits</a></td> 
+    <td>Nuoya Xiong, Wei Chen</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://openreview.net/forum?id=aKcS3xojnwY">GEASS: Neural Causal Feature Selection for High-dimensional Biological Data</a></td> 
+    <td>Mingze Dong, Yuval Kluger</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2303.03187">Boosting Causal Discovery Via Adaptive Sample Reweighting</a></td> 
+    <td>An Zhang, Fangfu Liu, Wenchang Ma, Zhibo Cai, Xiang Wang, Tat-seng Chua</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href="https://arxiv.org/abs/2206.07837">Modeling The Data-Generating Process Is Necessary for Out-of-Distribution Generalization</a></td> 
+    <td>Jivat Neet Kaur, Emre Kiciman, Amit Sharma</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICLR</td> 
+    <td>2023</td> 
+    <td><a href=""></a></td> 
+    <td></td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+
   
   <tr>
     <td>ICML</td> 
