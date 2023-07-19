@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td></td> <td>Conclusion</td>
+    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td>Pros</td> <td>Conclusion</td>
   </tr>
   <tr>
     <td>ICML</td> 
