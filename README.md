@@ -2,15 +2,17 @@
 
 <table>
   <tr>
-    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td>Pros</td> <td>Conclusion</td>
+    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td>Pros</td> <td>Key Words</td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2301.11351">Estimating Causal Effects using a Multi-task Deep Ensemble</a></td> 
     <td>Ziyang Jiang, Zhuoran Hou, Yiling Liu, Yiman Ren, Keyu Li, David Carlson</td> 
+    <td>Propose a framework to estimate causal effect from the data with complex structures.</td>
+    <td>Propose the Causal Multi-task Deep Ensemble (CMDE) framework learning both shared and group-specific information from control and treatment groups by separate neural networks.</td>
     <td></td>
-    <td></td>
+    <td>Causal effect estimation, Multi-task</td>
   </tr>
   <tr>
     <td>ICML</td> 
