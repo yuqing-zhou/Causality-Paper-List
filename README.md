@@ -15,7 +15,6 @@
     <td>Causal effect estimation, Multi-task</td>
   </tr>
   <tr>
-    <td>ICML</td> 
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2305.08062">Off-Policy Evaluation for Large Action Spaces Via Conjunct Effect Modeling</a></td>
     <td>Yuta Saito, Qingyang Ren, Thorsten Joachims</td> 
@@ -35,8 +34,10 @@
     <td>2023</td> 
     <td><a href="https://openreview.net/pdf?id=a86SXRxhtA">Pricing Experimental Design: Causal Effect, Expected Revenue and Tail Risk</a></td>
     <td>David Simchi-Levi, Chonghuan Wang</td> 
+    <td>Investigate the fundamental relationship among estimating the price elasticity (the causal effect of price), earning the revenue through the experiment, and controlling the tail risk.</td>
     <td></td>
     <td></td>
+    <td>Price experiment.</td>
   </tr>
   <tr>
     <td>ICML</td> 
