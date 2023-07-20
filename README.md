@@ -19,8 +19,16 @@
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2305.08062">Off-Policy Evaluation for Large Action Spaces Via Conjunct Effect Modeling</a></td>
     <td>Yuta Saito, Qingyang Ren, Thorsten Joachims</td> 
-    <td></td>
-    <td></td>
+    <td>To alleviate the variance problem caused by large action spaces in the task of off-policy evaluation of contextual bandit policies.</td>
+    <td>
+      (1) Propose the Conjunct Effect Model (CEM), which decomposes the expected reward into a cluster effect and a residual causal effect. <br/>
+      (2) Propose a novel estimator, Off-policy evaluation estimator, based on the Conjunct Effect Model (OffCEM). <br/>
+      (3) Propose a two-step procedure to directly optimize the bias and variance of OffCEM.
+    </td>
+    <td>(1) OffCEM is unbiased under a new condition called local correctness. <br/>
+      (2)A lower variance than IPS, MIPS, DR and a lower bias than MIPS.
+    </td>
+    <td>Off-Policy evaluation, Contextual bandit policy, Large action spaces</td>
   </tr>
   <tr>
     <td>ICML</td> 
