@@ -45,8 +45,10 @@
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2302.08635">Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting</a></td>
     <td>Shayan Shirahmad Gale Bagi, Zahra Gharaee, Oliver Schulte, Mark Crowley</td> 
-    <td></td>
-    <td></td>
+    <td>Discard spurious correlations and learn a explainable representation that can be transfered to a new environment effectively.</td>
+    <td>Propose a causal model that includes the invariant features, which are common across all types of environments, and variant features, which are environment-specific.</td>
+    <td>The identifiability and robustness of current motion forecasting models are improved.</td>
+    <td>Motion forecasting</td>
   </tr>
   <tr>
     <td>ICML</td> 
