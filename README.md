@@ -115,7 +115,9 @@
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2107.01876">Which Invariance Should We Transfer? A Causal Minimax Learning Approach</a></td> 
     <td>Mingzhou Liu, Xiangyu Zheng, Xinwei Sun, Fang Fang, Yizhou Wang</td> 
-    <td></td>
+    <td>This paper aims at identifying the subset of the stable information that a model should transfer to achieve optimal generalization ability, where the stable information is learned via independent causal mechanisms-based methods.</td>
+    <td>They propose a causal minimax learning approach to identify the optimal subset of invariance to transfer, in order to achieve robustness against dataset shifts. They provide a graphical condition that is sufficient for the whole stable set to be optimal. When this condition fails, they propose an optimization-based approach that is provable to attain the worst-case risk for each subset. Further, they propose a new search strategy via d-separation with better efficiency. </td>
+    <td>The subset selected by their method outperforms the others in terms of robustness on Alzheimer’s disease diagnosis. </td>
     <td></td>
   </tr>
   <tr>
