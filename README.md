@@ -66,7 +66,9 @@
     <td><a href="https://arxiv.org/abs/2306.00624">From Temporal to Contemporaneous Iterative Causal Discovery in The Presence of Latent Confounders</a></td>
     <td>Raanan Y. Rohekar, Shami Nisimov, Yaniv Gurwicz, Gal Novik</td> 
     <td></td>
-    <td></td>
+    <td>They present a constraint-based algorithm for learning causal structures from observational timeseries data, in the presence of latent confounders. Assuming a discrete-time, stationary structural vector autoregressive process having both temporal and contemporaneous causal relations, the algorithm refines a causal graph by learning long-term temporal relations before shortterm ones, where contemporaneous relations are learned last.</td>
+    <td>The ordering of causal relations to be learnt leads to a reduction in the required number of statistical tests.</td>
+    <td>Causal discovery, Time-series data</td>
   </tr>
   <tr>
     <td>ICML</td> 
