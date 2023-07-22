@@ -57,6 +57,8 @@
     <td>Richard A Watson, Hengrui Cai, Xinming An, Samuel McLean, Rui Song</td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td>Heterogeneous causal effects, Heterogeneous causal graphs, Individual level</td>
   </tr>
   <tr>
     <td>ICML</td> 
