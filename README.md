@@ -95,8 +95,10 @@
     <td>2023</td> 
     <td><a href="https://proceedings.mlr.press/v202/wang23ag/wang23ag.pdf">Estimating Possible Causal Effects with Latent Variables Via Adjustment</a></td> 
     <td>Tian-Zuo Wang, Tian Qin, Zhi-Hua Zhou</td> 
+    <td>The aim of this paper is to estimate possible causal effects via covariate adjustment given a partial ancestral graph (PAG) without super-exponential enumerations.</td>
+    <td>They propose a new graphical characterization for possible adjustment sets, and based on this, they develop the first method to determine the set of possible causal effects that are consistent with the given PAG without enumerating any causal graphs.</td>
     <td></td>
-    <td></td>
+    <td>Causal effect estimation</td>
   </tr>
   <tr>
     <td>ICML</td> 
