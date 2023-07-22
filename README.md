@@ -75,8 +75,10 @@
     <td>2023</td> 
     <td><a href="https://proceedings.mlr.press/v202/jiang23e/jiang23e.pdf">Detecting Out-of-distribution Data through In-distribution Class Prior</a></td>
     <td>Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, Bo Han</td> 
+    <td>In the task of out-of-detection (OOD) detection, i.e. recognizing the OOD data during the inference stage, previous methods an unproven assumption that the probability that OOD data belong to every in-distribution (ID) class should be the same, making them incapable when the models are trained with class-imbalanced data. This paper discard this assumption and identify the OOD-to-ID probabilities of several common scenarios.</td>
+    <td>By analyzing the causal relations between ID/OOD classes and features, they claim that the OOD-to-ID probabilities should be the ID-classprior distribution in several common scenarios. They propose two strategies, replacing (RP) and reweighting (RW), to modify existing score-based inference-time detection methods, i.e., replacing the original uniform distribution with ID-class-prior distribution, or reweight the original scores according to the similarity between the ID-class-prior distribution and the softmax outputs of the pre-trained model if the existing methods did not explicitly use the uniform distribution.</td>
     <td></td>
-    <td></td>
+    <td>OOD detection</td>
   </tr>
   <tr>
     <td>ICML</td> 
