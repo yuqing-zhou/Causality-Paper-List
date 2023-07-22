@@ -83,10 +83,12 @@
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
-    <td><a href="https://openreview.net/pdf?id=NHfj50Wiry">Lookahead When It Matters: Adaptive Non-causal Transformers for Streaming Neural Transducers</a></td> 
+    <td><a href="https://openreview.net/pdf?id=NHfj50Wiry"><s>Lookahead When It Matters: Adaptive Non-causal Transformers for Streaming Neural Transducers</s></a></td> 
     <td>Grant P. Strimel, Yi Xie, Brian King, Martin Radfar, Ariya Rastrow, Athanasios Mouchtaris</td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td>Automatic Speech Recognition, Non-causal, Low-latency</td>
   </tr>
   <tr>
     <td>ICML</td> 
