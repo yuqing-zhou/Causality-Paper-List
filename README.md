@@ -125,8 +125,10 @@
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2305.19582">Causal Discovery with Latent Confounders Based on Higher-Order Cumulants</a></td> 
     <td>Ruichu Cai, Zhiyi Huang, Wei Chen, Zhifeng Hao, Kun Zhang</td> 
+    <td>Since we are unable to measure all the underlying causal variable, causal discovery with latent confounders is needed. This paper considers the problem of causal discovery with latent confounders in which observed variables may be directly dependent. </td>
     <td></td>
     <td></td>
+    <td>Causal discovery, Latent confounders, Overcomplete independent component analysis (OICA)</td>
   </tr>
   <tr>
     <td>ICML</td> 
