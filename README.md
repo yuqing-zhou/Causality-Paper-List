@@ -137,6 +137,8 @@
     <td>Madhumitha Shridharan, Garud Iyengar </td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -145,6 +147,8 @@
     <td>Dong Xing, Pengjie Gu, Qian Zheng, Xinrun Wang, Shanqi Liu, Longtao Zheng, Bo An, Gang Pan</td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td>Ad hoc teamwork</td>
   </tr>
   <tr>
     <td>ICML</td> 
