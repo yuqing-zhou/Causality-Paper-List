@@ -157,6 +157,8 @@
     <td>Daniel Jarrett, Corentin Tallec, Florent Altché, Thomas Mesnard, Rémi Munos, Michal Valko</td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td>Reinforcement learning</td>
   </tr>
   <tr>
     <td>ICML</td> 
