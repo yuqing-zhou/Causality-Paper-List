@@ -165,8 +165,10 @@
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2306.14115">Towards Trustworthy Explanation: On Causal Rationalization</a></td> 
     <td>Wenbo Zhang, Tong Wu, Yunlong Wang, Yong Cai, Hengrui Cai</td> 
+    <td>Aiming to find trustworthy explanations for general NLP tasks and  identify rationales with causal meanings instead of selecting rationales based on purely optimizing prediction performance.</td>
+    <td>Introduce causal rationales by considering two causal desiderata, non-spuriousness and efficiency. They propose a new structural causal model of rationalization and then define a series of the probabilities of causation (POC) for rationales accounting for non-spuriousness and efficiency at different levels of language; establish the theoretical results for identifications of the defined POC of rationalization at the individual token level - the conditional probability of necessity and sufficiency (CPNS) and derive the lower bound of CPNS under the relaxed identification assumptions for practical usage; add the lower bound of CPNS as a causality constraint into the loss function, as the criteria to select the causal rationales. </td>
     <td></td>
-    <td></td>
+    <td>Rationalization, Conditional probability of necessity and sufficiency </td>
   </tr>
   <tr>
     <td>ICML</td> 
