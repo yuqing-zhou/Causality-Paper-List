@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td>Pros</td> <td>Key Words</td>
+    <td>Conference</td> <td>Year</td> <td>Title</td>  <td>Authors</td> <td>Motvation</td> <td>Methods</td> <td>Pros</td> <td>Key Words</td> <td>Future work</td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -13,6 +13,7 @@
     <td>Propose the Causal Multi-task Deep Ensemble (CMDE) framework learning both shared and group-specific information from control and treatment groups by separate neural networks.</td>
     <td></td>
     <td>Causal effect estimation, Multi-task</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -29,6 +30,7 @@
       (2)A lower variance than IPS, MIPS, DR and a lower bias than MIPS.
     </td>
     <td>Off-Policy evaluation, Contextual bandit policy, Large action spaces</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -39,6 +41,7 @@
     <td></td>
     <td></td>
     <td>Price experiment.</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -49,6 +52,7 @@
     <td>Propose a causal model that includes the invariant features, which are common across all types of environments, and variant features, which are environment-specific.</td>
     <td>The identifiability and robustness of current motion forecasting models are improved.</td>
     <td>Motion forecasting</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -59,6 +63,7 @@
     <td></td>
     <td></td>
     <td>Heterogeneous causal effects, Heterogeneous causal graphs, Individual level</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -69,6 +74,7 @@
     <td>They present a constraint-based algorithm for learning causal structures from observational timeseries data, in the presence of latent confounders. Assuming a discrete-time, stationary structural vector autoregressive process having both temporal and contemporaneous causal relations, the algorithm refines a causal graph by learning long-term temporal relations before shortterm ones, where contemporaneous relations are learned last.</td>
     <td>The ordering of causal relations to be learnt leads to a reduction in the required number of statistical tests.</td>
     <td>Causal discovery, Time-series data</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -79,6 +85,7 @@
     <td>By analyzing the causal relations between ID/OOD classes and features, they claim that the OOD-to-ID probabilities should be the ID-classprior distribution in several common scenarios. They propose two strategies, replacing (RP) and reweighting (RW), to modify existing score-based inference-time detection methods, i.e., replacing the original uniform distribution with ID-class-prior distribution, or reweight the original scores according to the similarity between the ID-class-prior distribution and the softmax outputs of the pre-trained model if the existing methods did not explicitly use the uniform distribution.</td>
     <td></td>
     <td>OOD detection</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -89,6 +96,7 @@
     <td></td>
     <td></td>
     <td>Automatic Speech Recognition, Non-causal, Low-latency</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -99,6 +107,7 @@
     <td>They propose a new graphical characterization for possible adjustment sets, and based on this, they develop the first method to determine the set of possible causal effects that are consistent with the given PAG without enumerating any causal graphs.</td>
     <td></td>
     <td>Causal effect estimation</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -109,6 +118,7 @@
     <td></td>
     <td></td>
     <td>Causal discovery</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -118,6 +128,7 @@
     <td>This paper aims at identifying the subset of the stable information that a model should transfer to achieve optimal generalization ability, where the stable information is learned via independent causal mechanisms-based methods.</td>
     <td>They propose a causal minimax learning approach to identify the optimal subset of invariance to transfer, in order to achieve robustness against dataset shifts. They provide a graphical condition that is sufficient for the whole stable set to be optimal. When this condition fails, they propose an optimization-based approach that is provable to attain the worst-case risk for each subset. Further, they propose a new search strategy via d-separation with better efficiency. </td>
     <td>The subset selected by their method outperforms the others in terms of robustness on Alzheimer’s disease diagnosis. </td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -129,12 +140,14 @@
     <td></td>
     <td></td>
     <td>Causal discovery, Latent confounders, Overcomplete independent component analysis (OICA)</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
     <td><a href="https://proceedings.mlr.press/v202/shridharan23a/shridharan23a.pdf">Causal Bounds in Quasi-Markovian Graphs</a></td> 
     <td>Madhumitha Shridharan, Garud Iyengar </td> 
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -149,6 +162,7 @@
     <td></td>
     <td></td>
     <td>Ad hoc teamwork</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -159,6 +173,7 @@
     <td></td>
     <td></td>
     <td>Reinforcement learning</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
@@ -169,14 +184,20 @@
     <td>Introduce causal rationales by considering two causal desiderata, non-spuriousness and efficiency. They propose a new structural causal model of rationalization and then define a series of the probabilities of causation (POC) for rationales accounting for non-spuriousness and efficiency at different levels of language; establish the theoretical results for identifications of the defined POC of rationalization at the individual token level - the conditional probability of necessity and sufficiency (CPNS) and derive the lower bound of CPNS under the relaxed identification assumptions for practical usage; add the lower bound of CPNS as a causality constraint into the loss function, as the criteria to select the causal rationales. </td>
     <td></td>
     <td>Rationalization, Conditional probability of necessity and sufficiency </td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2306.05637">On The Importance of Feature Decorrelation for Unsupervised Representation Learning in Reinforcement Learning</a></td> 
     <td>Hojoon Lee, Koanho Lee, Dongyoon Hwang, Hyunho Lee, Byungkun Lee, Jaegul Choo</td> 
+    <td>To avoid the representational collapse in pretraining a model from a large unlabeled dataset.</td>
+    <td>To learn temporally predictive representations, this paper proposes SimTPR that utilizes an autoregressive transition model (Causal Transformer) to predict future states and maximizes the similarity between the predictions and the future states in the latent space. Then, SimTPR integrates a feature decorrelation loss that prevents representational collapse by standardizing the cross-correlation matrix of the representations in the latent space.</td>
     <td></td>
     <td></td>
+    <td>Add a loss term to standardizing the cross-correlation matrix for decorrelation in other tasks.</br>
+        Take a look at Causal Transformer.
+    </td>
   </tr>
   <tr>
     <td>ICML</td> 
