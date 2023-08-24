@@ -217,12 +217,18 @@
     <td>Guy Horowitz, Nir Rosenfeld</td> 
     <td></td>
     <td></td>
+    <td></td>
+    <td>Strategic Classification</td>
+    <td></td>
   </tr>
   <tr>
     <td>ICML</td> 
     <td>2023</td> 
     <td><a href="https://arxiv.org/abs/2210.07661">CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling</a></td>  
     <td>Jun Zhang, Shuyang Jiang, Jiangtao Feng, Lin Zheng, Lingpeng Kong</td> 
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -240,7 +246,10 @@
     <td><a href="https://arxiv.org/abs/2209.14279">Causal Proxy Models for Concept-based Model Explanations</a></td> 
     <td>Zhengxuan Wu, Karel D'Oosterlinck, Atticus Geiger, Amir Zur, Christopher Potts</td> 
     <td></td>
+    <td>Utilize a proxy model, which is trained by mimicking behaviors of black-box models on factual and counterfactual inputs. At last, get an explainable model while having comparable performance to the black-box model.</td>
     <td></td>
+    <td>Proxy model</td>
+    <td>Can be transfered to other tasks.</td>
   </tr>
   <tr>
     <td>ICML</td> 
